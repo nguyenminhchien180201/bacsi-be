@@ -1,5 +1,5 @@
 import doctorService from "../services/doctorService";
-
+//doctor
 let getTopDoctorHome = async (req, res) => {
 
     let limit = req.query.limit;
